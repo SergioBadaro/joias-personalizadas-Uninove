@@ -1,5 +1,7 @@
 # Projeto: Jóias Personalizadas
 
+Deploy do Site: https://joiaspersonalizadas.netlify.app/
+
 Descrição rápida
 - Site estático de apresentação de uma pequena empresa de jóias personalizadas.
 - Arquivo principal: [index.html](index.html).
