@@ -2,7 +2,13 @@
 
 Deploy do Site: https://joiaspersonalizadas.netlify.app/
 
+
+
+
 Site Feito para finalizar a materia de (Interação Humano Computador), da faculdade Uninove no curso de Analise e Desenvolvimento de Sistemas
+
+
+
 
 Descrição rápida
 - Site estático de apresentação de uma pequena empresa de jóias personalizadas.
